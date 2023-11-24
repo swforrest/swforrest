@@ -6,6 +6,7 @@ I'm a PhD candidate in Mathematical Sciences at the Queensland University of Tec
 - [LinkedIn](https://www.linkedin.com/in/swforrest/)
 - [Twitter](https://twitter.com/scottwilliamf)
 - [GitHub](https://github.com/swforrest)
+- [Scholar](https://scholar.google.com.au/citations?user=ECYMO3YAAAAJ&hl=en&oi=sra)
 
 <!--
 **swforrest/swforrest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
